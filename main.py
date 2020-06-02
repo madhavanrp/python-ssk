@@ -1,4 +1,4 @@
-import pyximport; pyximport.install()
+# import pyximport; pyximport.install()
 from string_kernel import ssk, string_kernel
 
 import numpy as np
